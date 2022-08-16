@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-16T21:21:54 WIB" name="Default suite" finished-at="2022-08-16T21:22:32 WIB" duration-ms="38085">
+    <groups>
+    </groups>
+    <test started-at="2022-08-16T21:21:54 WIB" name="Default test" finished-at="2022-08-16T21:22:32 WIB" duration-ms="38085">
+      <class name="com.juaracoding.pageObject.TestAlert">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.juaracoding.pageObject.TestAlert@15bbf42f]" started-at="2022-08-16T21:21:54 WIB" name="setUp" finished-at="2022-08-16T21:22:23 WIB" duration-ms="29614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="pageObject()[pri:0, instance:com.juaracoding.pageObject.TestAlert@15bbf42f]" started-at="2022-08-16T21:22:23 WIB" name="pageObject" finished-at="2022-08-16T21:22:23 WIB" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageObject -->
+        <test-method signature="testAlert()[pri:0, instance:com.juaracoding.pageObject.TestAlert@15bbf42f]" started-at="2022-08-16T21:22:23 WIB" name="testAlert" finished-at="2022-08-16T21:22:25 WIB" duration-ms="1958" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAlert -->
+        <test-method is-config="true" signature="pageObject()[pri:0, instance:com.juaracoding.pageObject.TestAlert@15bbf42f]" started-at="2022-08-16T21:22:25 WIB" name="pageObject" finished-at="2022-08-16T21:22:25 WIB" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageObject -->
+        <test-method signature="testAlertTwo()[pri:0, instance:com.juaracoding.pageObject.TestAlert@15bbf42f]" started-at="2022-08-16T21:22:25 WIB" name="testAlertTwo" finished-at="2022-08-16T21:22:28 WIB" duration-ms="2306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAlertTwo -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.juaracoding.pageObject.TestAlert@15bbf42f]" started-at="2022-08-16T21:22:28 WIB" name="closeBrowser" finished-at="2022-08-16T21:22:32 WIB" duration-ms="3919" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.juaracoding.pageObject.TestAlert -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
