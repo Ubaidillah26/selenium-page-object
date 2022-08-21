@@ -3,15 +3,14 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.juaracoding.pageObject.TestAlert">
+      <class name="com.juaracoding.pageObject.Test18.TestWishlist">
         <methods>
           <include name="setUp"/>
-          <include name="testAlertTwo"/>
-          <include name="closeBrowser"/>
           <include name="pageObject"/>
-          <include name="testAlert"/>
+          <include name="closeBrowser"/>
+          <include name="testWishlist1"/>
         </methods>
-      </class> <!-- com.juaracoding.pageObject.TestAlert -->
+      </class> <!-- com.juaracoding.pageObject.Test18.TestWishlist -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
